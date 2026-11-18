@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+__pycache__/
+dist/
+*.zip
+tools/source_textures/
